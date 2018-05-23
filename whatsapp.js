@@ -30,7 +30,7 @@ function montar(){
                         '<div id="wb-message">' + message + '</div>' +
                         '<div id="wb-btn">' +
                             '<a href="https://web.whatsapp.com/send?phone=' + number + '&text=' + message + '" target="_BLANCK">' +
-                                '<img id="wb-icon" src="./whatsapp-button.png" alt="Botão WhatsApp">' +
+                                '<img id="wb-icon" src="https://lucianobragaweb.github.io/whatsapp-button/whatsapp-button.png" alt="Botão WhatsApp">' +
                             '</a>' +
                         '</div>' +
                     '</div>';

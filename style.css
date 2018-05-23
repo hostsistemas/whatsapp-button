@@ -5,6 +5,7 @@ div#wb-widget {
     bottom: 0px;
     right: 0px;
     margin: 10px;
+    z-index: 999;
 }
 
 div#wb-widget div#wb-btn {
