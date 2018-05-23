@@ -11,4 +11,4 @@ Você pode ver o widget funcionando aqui: [Demostração](https://lucianobragawe
 
 A instalação mais simples é através do script em sua página web informando os parametros.
 
-`<script type="text/javascript" wb-number="5588988459521" wb-message="+55 88 9 8845 9521" src="https://github.com/lucianobragaweb/whatsapp-button/whatsapp.js"></script>`
+`<script type="text/javascript" wb-number="5588988459521" wb-message="+55 88 9 8845 9521" src="https://lucianobragaweb.github.io/whatsapp-button/whatsapp.js"></script>`
