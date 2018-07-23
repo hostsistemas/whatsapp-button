@@ -1,7 +1,7 @@
 # WhatsAPP Button
 ![Botão WhatsAPP no site](./botao-whatsapp.png "Botão WhatsAPP no site")
 
-Player para Web Rádio
+Botão WhatsApp no site
 
 # Demonstração
 
