@@ -23,7 +23,8 @@ div#wb-widget div#wb-btn {
 
 div#wb-widget div#wb-btn a img#wb-icon {
     width: 65%;
-    margin: 5px
+    margin: 5px;
+    vertical-align: baseline;
 }
 div#wb-widget div#wb-message {
     font-family: 'Ubuntu', sans-serif;
@@ -36,4 +37,5 @@ div#wb-widget div#wb-message {
     margin-bottom: 5px;
     border-top-left-radius: 50px;
     border-bottom-left-radius: 50px;
+    line-height: 25px;
 }
