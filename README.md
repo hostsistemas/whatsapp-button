@@ -18,3 +18,6 @@ A instalação mais simples é através do script em sua página web informando 
 Se esta ferramenta foi útil para você, considere fazer uma doação de qualquer valor.
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6EE7DKT6JAAVA)
+
+Se preferir o PagSeguro
+[![PagSeguro](https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/209x48-doar-assina.gif)](https://pag.ae/7UkvnQ1Vo)
